@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+font-family: fantasy;
+background-color: rgb(179, 242, 242);
+}
+
+h1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2cm;
+    
+   
+}
+
+
+
+p {
+
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    padding: 1cm;
+    border: 8cm;
+    
+   
+}
+
+p img {
+
+width: 10%;
+display:flex;
+justify-content:end;
+align-items:flex-end;
+
+padding-right: 50px;
+}
+
+
+
+
+img {
+
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-start;
+    padding-left: 10cm;
+}
